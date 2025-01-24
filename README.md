@@ -24,7 +24,7 @@ Make sure you have the following tools installed on your machine:
 If you haven't cloned the repository already, run:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/IrisLemeni/Docker-Java-Springboot-PostgreSQL.git
 cd <project_folder>
 ```
 
